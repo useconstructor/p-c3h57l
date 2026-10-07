@@ -348,7 +348,7 @@ export default function Home() {
             {/* Left: Text + CTA */}
             <div className="space-y-6">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-                Gestiona tus tareas sin distracciones
+                Organiza tus tareas con claridad
               </h1>
               <p className="text-lg" style={{ color: 'var(--text-secondary)' }}>
                 Una herramienta simple y gratuita que guarda todo automaticamente
