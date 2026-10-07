@@ -1,13 +1,13 @@
 {
-  "primaryColor": "#F9FAFB",
-  "secondaryColor": "#E8F4F8",
-  "backgroundColor": "#F9FAFB",
+  "tone": "trustworthy",
+  "fontBody": "Inter",
+  "logoText": "QA Flow 2026 Verified",
   "textColor": "#1F2937",
   "accentColor": "#2563EB",
   "fontHeading": "Inter",
-  "fontBody": "Inter",
   "borderRadius": "0.25rem",
-  "logoText": "QA Flow 2026",
   "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-C3H57L/logo.png",
-  "tone": "trustworthy"
+  "primaryColor": "#F9FAFB",
+  "secondaryColor": "#E8F4F8",
+  "backgroundColor": "#F9FAFB"
 }
